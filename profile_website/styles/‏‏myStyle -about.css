@@ -1,0 +1,62 @@
+body {
+    direction: rtl;
+    background-image: url("../images/tamir.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+    
+}
+#firstTitle{
+    padding-top:15px;
+    text-align:right;
+    -webkit-text-stroke-color:purple;
+    -webkit-text-stroke-width:3px;
+    font-family:Candara;
+    font-size:45pt;
+    margin-bottom:25px;
+}
+#facebooklink {
+    margin-top: 10px;
+    -webkit-transition: height 100ms ease;
+    -moz-transition: height 100ms ease;
+    -ms-transition: height 100ms ease;
+    -o-transition: height 100ms ease;
+    transition: height 100ms ease;
+    -webkit-transition: width 100ms ease;
+    -moz-transition: width 100ms ease;
+    -ms-transition: width 100ms ease;
+    -o-transition: width 100ms ease;
+    transition: width 100ms ease;
+}
+#gmailink {
+    padding-left: 15px;
+    padding-top: 80px;
+    -webkit-transition: height 100ms ease;
+    -moz-transition: height 100ms ease;
+    -ms-transition: height 100ms ease;
+    -o-transition: height 100ms ease;
+    transition: height 100ms ease;
+    -webkit-transition: width 100ms ease;
+    -moz-transition: width 100ms ease;
+    -ms-transition: width 100ms ease;
+    -o-transition: width 100ms ease;
+    transition: width 100ms ease;
+    padding-bottom:500px;
+}
+p{
+    font-size:20pt;
+    font-family:'Guttman Aharoni';
+    text-align:right;
+}
+#facebooklink:hover{
+    height:100px;
+    width:100px;
+}
+#gmailink:hover{
+    height: 100px;
+    width:100px;
+}

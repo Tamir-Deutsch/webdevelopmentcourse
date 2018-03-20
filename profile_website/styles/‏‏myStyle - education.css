@@ -1,0 +1,38 @@
+body {
+    direction: rtl;
+    background-image: url("../images/tamir.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+#firstTitle {
+    padding-top: 15px;
+    margin-bottom: 25px;
+    font-family: Candara;
+    font-size: 15pt;
+    text-align: right;
+    -webkit-text-stroke-color: purple;
+    -webkit-text-stroke-width: 3px;
+}
+p {
+    font-size: 25pt;
+    font-family: 'Guttman Aharoni';
+    text-align: right;
+}
+h1 {
+    font-size: 45pt;
+    padding-top: 15px;
+    margin-bottom: 25px;
+    font-family: Candara;
+    text-align: right;
+    -webkit-text-stroke-color: purple;
+    -webkit-text-stroke-width: 3px;
+}
+p{
+    font-size:20pt;
+    font-family:'Guttman Aharoni';
+}
